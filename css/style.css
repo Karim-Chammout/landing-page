@@ -114,6 +114,7 @@ nav {
 
 .cover img {
 	height: 100%;
+	max-width: 100%;
 	filter: drop-shadow(7px 7px 8px black);
 	animation: drop 2s ease-in-out;
 }
